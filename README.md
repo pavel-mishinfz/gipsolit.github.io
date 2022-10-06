@@ -1,2 +1,2 @@
-# gipsolit.github.io
+# gipsolit
 Мой первый опубликованный сайт
